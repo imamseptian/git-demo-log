@@ -1,1 +1,1 @@
-console.log("KEKW")
+console.log("KEKL")
